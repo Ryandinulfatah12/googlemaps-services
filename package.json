@@ -1,0 +1,24 @@
+{
+  "name": "web-scrapping-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "ryan",
+  "license": "ISC",
+  "dependencies": {
+    "@sparticuz/chromium": "^123.0.0",
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "exceljs": "^4.4.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer-core": "^22.6.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

@@ -1,0 +1,20 @@
+# Directories
+node_modules/
+dist/
+
+# Log files
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Mac OS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+Thumbs.db
